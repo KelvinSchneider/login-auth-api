@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    <img src="./.github/login.png" alt="Image Example" width="400px">
+    <img src="./login-auth-frontend/.github/login.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 Sobre</h2>
