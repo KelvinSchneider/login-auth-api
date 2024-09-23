@@ -1,7 +1,7 @@
 [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
-[JAVA]: https://img.shields.io/badge/java-D4FAFF?style=for-the-badge&logo=java
-[SPRINGBOOT]: https://img.shields.io/badge/springboot-D4FAFF?style=for-the-badge&logo=spring
+[JAVA]: https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white
+[SPRINGBOOT]: https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 
 <h1 align="center" style="font-weight: bold;">Página de Login em Angular 💻</h1>
 
