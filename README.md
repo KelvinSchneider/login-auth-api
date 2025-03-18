@@ -40,7 +40,7 @@ Framework Java Spring e as bibliotecas JWT e Spring Security são utilizadas par
 Como clonar seu projeto
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/login-auth-api.git
+git clone https://github.com/KelvinSchneider/login-auth-api.git
 ```
 
 <h3>Iniciando</h3>
